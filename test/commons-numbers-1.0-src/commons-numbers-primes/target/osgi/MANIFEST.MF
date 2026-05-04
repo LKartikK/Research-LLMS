@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1777938295154
+Build-Jdk: 21.0.10
+Built-By: kartikkujala
+Bundle-Description: Utilities related to prime numbers.
+Bundle-DocURL: http://commons.apache.org/proper/commons-numbers/commons-
+ numbers-primes/
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Commons Numbers Primes
+Bundle-SymbolicName: org.apache.commons.numbers.primes
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apache.commons.numbers.primes;version="1.0.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-5.1.0.202006012012

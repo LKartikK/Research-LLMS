@@ -1,0 +1,8 @@
+org/apache/commons/numbers/angle/Angle.class
+org/apache/commons/numbers/angle/Reduce.class
+org/apache/commons/numbers/angle/Angle$Rad.class
+org/apache/commons/numbers/angle/Angle$1.class
+org/apache/commons/numbers/angle/Angle$Normalizer.class
+org/apache/commons/numbers/angle/Angle$Turn.class
+org/apache/commons/numbers/angle/Angle$Deg.class
+org/apache/commons/numbers/angle/CosAngle.class

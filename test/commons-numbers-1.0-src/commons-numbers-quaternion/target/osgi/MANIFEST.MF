@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1777938295456
+Build-Jdk: 21.0.10
+Built-By: kartikkujala
+Bundle-Description: Quaternion numbers.
+Bundle-DocURL: http://commons.apache.org/proper/commons-numbers/commons-
+ numbers-quaternion/
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Commons Numbers Quaternion
+Bundle-SymbolicName: org.apache.commons.numbers.quaternion
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apache.commons.numbers.quaternion;version="1.0.0"
+Import-Package: org.apache.commons.numbers.core
+Include-Resource: META-INF/LICENSE=LICENSE,META-INF/NOTICE=NOTICE
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-5.1.0.202006012012
