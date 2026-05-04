@@ -1,0 +1,5 @@
+org.apache.commons.numbers.field.FP64_ESTest_scaffolding
+org.apache.commons.numbers.field.BigFractionField_ESTest_scaffolding
+org.apache.commons.numbers.field.AbstractField_ESTest_scaffolding
+org.apache.commons.numbers.field.FP64Field_ESTest_scaffolding
+org.apache.commons.numbers.field.FractionField_ESTest_scaffolding

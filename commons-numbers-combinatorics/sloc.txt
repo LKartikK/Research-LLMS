@@ -1,0 +1,29 @@
++------------------+---------------------------------------------------+----------+----------+----------+----------+----------+----------+
+| Package Name     | File Name                                         | Type     | Blank    | JavaDoc  | Comment  | Code     | Total    |
++------------------+---------------------------------------------------+----------+----------+----------+----------+----------+----------+
+| combinatorics    | BinomialCoefficient.java                          | src      |        9 |       27 |       35 |       54 |      125 |
+| combinatorics    | BinomialCoefficientDouble.java                    | src      |        7 |       17 |       17 |       29 |       70 |
+| combinatorics    | BinomialCoefficientDouble_ESTest.java             | test     |       12 |        0 |        8 |       54 |       74 |
+| combinatorics    | BinomialCoefficientDouble_ESTest_scaffolding.java | test     |       16 |        5 |        0 |       85 |      106 |
+| combinatorics    | BinomialCoefficient_ESTest.java                   | test     |       21 |        0 |       20 |       96 |      137 |
+| combinatorics    | BinomialCoefficient_ESTest_scaffolding.java       | test     |       16 |        5 |        0 |       83 |      104 |
+| combinatorics    | Combinations.java                                 | src      |       28 |      144 |       27 |      177 |      376 |
+| combinatorics    | Combinations_ESTest.java                          | test     |       23 |        0 |       22 |      169 |      214 |
+| combinatorics    | Combinations_ESTest_scaffolding.java              | test     |       16 |        5 |        0 |       93 |      114 |
+| combinatorics    | CombinatoricsException.java                       | src      |        4 |       10 |       16 |       16 |       46 |
+| combinatorics    | Factorial.java                                    | src      |        6 |       12 |       17 |       24 |       59 |
+| combinatorics    | FactorialDouble.java                              | src      |       14 |       46 |       20 |       59 |      139 |
+| combinatorics    | FactorialDouble_ESTest.java                       | test     |      103 |        0 |       26 |     1479 |     1608 |
+| combinatorics    | FactorialDouble_ESTest_scaffolding.java           | test     |       16 |        5 |        0 |       82 |      103 |
+| combinatorics    | Factorial_ESTest.java                             | test     |        9 |        0 |       12 |       39 |       60 |
+| combinatorics    | Factorial_ESTest_scaffolding.java                 | test     |       16 |        5 |        0 |       80 |      101 |
+| combinatorics    | LogBinomialCoefficient.java                       | src      |       12 |       17 |       24 |       34 |       87 |
+| combinatorics    | LogBinomialCoefficient_ESTest.java                | test     |       13 |        0 |        8 |       60 |       81 |
+| combinatorics    | LogBinomialCoefficient_ESTest_scaffolding.java    | test     |       16 |        5 |        0 |       87 |      108 |
+| combinatorics    | LogFactorial.java                                 | src      |       14 |       39 |       21 |       46 |      120 |
+| combinatorics    | LogFactorial_ESTest.java                          | test     |       29 |        0 |       29 |      171 |      229 |
+| combinatorics    | LogFactorial_ESTest_scaffolding.java              | test     |       16 |        5 |        0 |       91 |      112 |
+| combinatorics    | package-info.java                                 | src      |        1 |        3 |       16 |        1 |       21 |
++------------------+---------------------------------------------------+----------+----------+----------+----------+----------+----------+
+| 1 package(s)     | 23 file(s)                                        | java     |      417 |      350 |      318 |     3109 |     4194 |
++------------------+---------------------------------------------------+----------+----------+----------+----------+----------+----------+

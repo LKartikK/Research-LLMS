@@ -1,0 +1,5 @@
+org.apache.commons.numbers.core.Sum_ESTest_scaffolding
+org.apache.commons.numbers.core.ExtendedPrecision_ESTest_scaffolding
+org.apache.commons.numbers.core.Precision_ESTest_scaffolding
+org.apache.commons.numbers.core.Norm_ESTest_scaffolding
+org.apache.commons.numbers.core.ArithmeticUtils_ESTest_scaffolding

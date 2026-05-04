@@ -1,0 +1,13 @@
++------------------+-----------------------------------------+----------+----------+----------+----------+----------+----------+
+| Package Name     | File Name                               | Type     | Blank    | JavaDoc  | Comment  | Code     | Total    |
++------------------+-----------------------------------------+----------+----------+----------+----------+----------+----------+
+| rootfinder       | BrentSolver.java                        | src      |       17 |       66 |       30 |      133 |      246 |
+| rootfinder       | BrentSolver_ESTest.java                 | test     |       66 |        0 |      109 |      478 |      653 |
+| rootfinder       | BrentSolver_ESTest_scaffolding.java     | test     |       16 |        5 |        0 |       83 |      104 |
+| rootfinder       | SolverException.java                    | src      |        4 |       10 |       16 |       15 |       45 |
+| rootfinder       | SolverException_ESTest.java             | test     |        8 |        0 |       10 |       38 |       56 |
+| rootfinder       | SolverException_ESTest_scaffolding.java | test     |       16 |        5 |        0 |       78 |       99 |
+| rootfinder       | package-info.java                       | src      |        0 |        3 |       16 |        1 |       20 |
++------------------+-----------------------------------------+----------+----------+----------+----------+----------+----------+
+| 1 package(s)     | 7 file(s)                               | java     |      127 |       89 |      181 |      826 |     1223 |
++------------------+-----------------------------------------+----------+----------+----------+----------+----------+----------+

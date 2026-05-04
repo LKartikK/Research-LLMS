@@ -1,0 +1,19 @@
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+
+| Package Name     | File Name                                 | Type     | Blank    | JavaDoc  | Comment  | Code     | Total    |
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+
+| fraction         | BigFraction.java                          | src      |      108 |      499 |      134 |      551 |     1292 |
+| fraction         | BigFraction_ESTest.java                   | test     |     1515 |        0 |      306 |    40809 |    42630 |
+| fraction         | BigFraction_ESTest_scaffolding.java       | test     |       16 |        5 |        0 |       83 |      104 |
+| fraction         | ContinuedFraction.java                    | src      |       15 |       87 |       16 |       45 |      163 |
+| fraction         | ContinuedFraction_ESTest.java             | test     |        3 |        0 |        5 |       12 |       20 |
+| fraction         | ContinuedFraction_ESTest_scaffolding.java | test     |       14 |        5 |        0 |       63 |       82 |
+| fraction         | Fraction.java                             | src      |       71 |      344 |       87 |      408 |      910 |
+| fraction         | FractionException.java                    | src      |        5 |       15 |       16 |       19 |       55 |
+| fraction         | FractionException_ESTest.java             | test     |       13 |        0 |       16 |       65 |       94 |
+| fraction         | FractionException_ESTest_scaffolding.java | test     |       16 |        5 |        0 |       78 |       99 |
+| fraction         | Fraction_ESTest.java                      | test     |      155 |        0 |      112 |      960 |     1227 |
+| fraction         | Fraction_ESTest_scaffolding.java          | test     |       16 |        5 |        0 |       87 |      108 |
+| fraction         | package-info.java                         | src      |        0 |        5 |       16 |        1 |       22 |
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+
+| 1 package(s)     | 13 file(s)                                | java     |     1947 |      970 |      708 |    43181 |    46806 |
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+

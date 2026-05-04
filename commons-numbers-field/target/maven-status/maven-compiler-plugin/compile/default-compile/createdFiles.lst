@@ -1,0 +1,6 @@
+org/apache/commons/numbers/field/FP64Field.class
+org/apache/commons/numbers/field/FP64.class
+org/apache/commons/numbers/field/BigFractionField.class
+org/apache/commons/numbers/field/Field.class
+org/apache/commons/numbers/field/FractionField.class
+org/apache/commons/numbers/field/AbstractField.class

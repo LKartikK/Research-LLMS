@@ -1,0 +1,16 @@
+org.apache.commons.numbers.gamma.Digamma_ESTest_scaffolding
+org.apache.commons.numbers.gamma.GammaException_ESTest_scaffolding
+org.apache.commons.numbers.gamma.Gamma_ESTest_scaffolding
+org.apache.commons.numbers.gamma.LogGamma_ESTest_scaffolding
+org.apache.commons.numbers.gamma.InverseErfc_ESTest_scaffolding
+org.apache.commons.numbers.gamma.Trigamma_ESTest_scaffolding
+org.apache.commons.numbers.gamma.LogGammaSum_ESTest_scaffolding
+org.apache.commons.numbers.gamma.LogBeta_ESTest_scaffolding
+org.apache.commons.numbers.gamma.LogGamma1p_ESTest_scaffolding
+org.apache.commons.numbers.gamma.LanczosApproximation_ESTest_scaffolding
+org.apache.commons.numbers.gamma.Erfc_ESTest_scaffolding
+org.apache.commons.numbers.gamma.RegularizedBeta_ESTest_scaffolding
+org.apache.commons.numbers.gamma.ErfDifference_ESTest_scaffolding
+org.apache.commons.numbers.gamma.InverseErf_ESTest_scaffolding
+org.apache.commons.numbers.gamma.Erf_ESTest_scaffolding
+org.apache.commons.numbers.gamma.InvGamma1pm1_ESTest_scaffolding

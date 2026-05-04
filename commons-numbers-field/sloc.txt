@@ -1,0 +1,23 @@
++------------------+------------------------------------------+----------+----------+----------+----------+----------+----------+
+| Package Name     | File Name                                | Type     | Blank    | JavaDoc  | Comment  | Code     | Total    |
++------------------+------------------------------------------+----------+----------+----------+----------+----------+----------+
+| field            | AbstractField.java                       | src      |        8 |        5 |       16 |       40 |       69 |
+| field            | AbstractField_ESTest.java                | test     |       36 |        0 |       56 |      206 |      298 |
+| field            | AbstractField_ESTest_scaffolding.java    | test     |       16 |        5 |        0 |      102 |      123 |
+| field            | BigFractionField.java                    | src      |        6 |        3 |       16 |       22 |       47 |
+| field            | BigFractionField_ESTest.java             | test     |        5 |        0 |        4 |       23 |       32 |
+| field            | BigFractionField_ESTest_scaffolding.java | test     |       16 |        5 |        0 |       88 |      109 |
+| field            | FP64.java                                | src      |       21 |       13 |       16 |      122 |      172 |
+| field            | FP64Field.java                           | src      |        5 |        3 |       16 |       25 |       49 |
+| field            | FP64Field_ESTest.java                    | test     |        5 |        0 |        4 |       23 |       32 |
+| field            | FP64Field_ESTest_scaffolding.java        | test     |       16 |        5 |        0 |       89 |      110 |
+| field            | FP64_ESTest.java                         | test     |       59 |        0 |       24 |      380 |      463 |
+| field            | FP64_ESTest_scaffolding.java             | test     |       16 |        5 |        0 |       84 |      105 |
+| field            | Field.java                               | src      |        9 |       46 |       16 |       12 |       83 |
+| field            | FractionField.java                       | src      |        6 |        3 |       16 |       22 |       47 |
+| field            | FractionField_ESTest.java                | test     |        5 |        0 |        4 |       23 |       32 |
+| field            | FractionField_ESTest_scaffolding.java    | test     |       16 |        5 |        0 |       92 |      113 |
+| field            | package-info.java                        | src      |        0 |        3 |       16 |        1 |       20 |
++------------------+------------------------------------------+----------+----------+----------+----------+----------+----------+
+| 1 package(s)     | 17 file(s)                               | java     |      245 |      101 |      204 |     1354 |     1904 |
++------------------+------------------------------------------+----------+----------+----------+----------+----------+----------+

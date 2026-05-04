@@ -1,0 +1,25 @@
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+
+| Package Name     | File Name                                 | Type     | Blank    | JavaDoc  | Comment  | Code     | Total    |
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+
+| core             | Addition.java                             | src      |        3 |       22 |       16 |        6 |       47 |
+| core             | ArithmeticUtils.java                      | src      |       47 |      234 |       51 |      275 |      607 |
+| core             | ArithmeticUtils_ESTest.java               | test     |      158 |        0 |      112 |      885 |     1155 |
+| core             | ArithmeticUtils_ESTest_scaffolding.java   | test     |       16 |        5 |        0 |       80 |      101 |
+| core             | ExtendedPrecision.java                    | src      |       23 |      156 |       74 |       54 |      307 |
+| core             | ExtendedPrecision_ESTest.java             | test     |       24 |        0 |        4 |      115 |      143 |
+| core             | ExtendedPrecision_ESTest_scaffolding.java | test     |       16 |        5 |        0 |       78 |       99 |
+| core             | Multiplication.java                       | src      |        3 |       22 |       16 |        6 |       47 |
+| core             | NativeOperators.java                      | src      |        4 |       30 |       16 |        9 |       59 |
+| core             | Norm.java                                 | src      |       49 |      208 |       55 |      259 |      571 |
+| core             | Norm_ESTest.java                          | test     |       39 |        0 |       12 |      239 |      290 |
+| core             | Norm_ESTest_scaffolding.java              | test     |       16 |        5 |        0 |       85 |      106 |
+| core             | Precision.java                            | src      |       50 |      348 |       36 |      215 |      649 |
+| core             | Precision_ESTest.java                     | test     |       98 |        0 |       24 |      507 |      629 |
+| core             | Precision_ESTest_scaffolding.java         | test     |       16 |        5 |        0 |       81 |      102 |
+| core             | Sum.java                                  | src      |       21 |      138 |       19 |       77 |      255 |
+| core             | Sum_ESTest.java                           | test     |       28 |        0 |       32 |      159 |      219 |
+| core             | Sum_ESTest_scaffolding.java               | test     |       16 |        5 |        0 |       80 |      101 |
+| core             | package-info.java                         | src      |        0 |        3 |       16 |        1 |       20 |
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+
+| 1 package(s)     | 19 file(s)                                | java     |      627 |     1186 |      483 |     3211 |     5507 |
++------------------+-------------------------------------------+----------+----------+----------+----------+----------+----------+

@@ -1,0 +1,16 @@
++------------------+----------------------------------+----------+----------+----------+----------+----------+----------+
+| Package Name     | File Name                        | Type     | Blank    | JavaDoc  | Comment  | Code     | Total    |
++------------------+----------------------------------+----------+----------+----------+----------+----------+----------+
+| angle            | Angle.java                       | src      |       35 |       90 |       23 |      163 |      311 |
+| angle            | Angle_ESTest.java                | test     |       29 |        0 |        4 |      202 |      235 |
+| angle            | Angle_ESTest_scaffolding.java    | test     |       16 |        5 |        0 |       88 |      109 |
+| angle            | CosAngle.java                    | src      |        4 |       11 |       17 |       12 |       44 |
+| angle            | CosAngle_ESTest.java             | test     |       10 |        0 |       12 |       54 |       76 |
+| angle            | CosAngle_ESTest_scaffolding.java | test     |       16 |        5 |        0 |       87 |      108 |
+| angle            | Reduce.java                      | src      |        4 |       10 |       16 |       19 |       49 |
+| angle            | Reduce_ESTest.java               | test     |        6 |        0 |        4 |       28 |       38 |
+| angle            | Reduce_ESTest_scaffolding.java   | test     |       16 |        5 |        0 |       78 |       99 |
+| angle            | package-info.java                | src      |        0 |        3 |       16 |        1 |       20 |
++------------------+----------------------------------+----------+----------+----------+----------+----------+----------+
+| 1 package(s)     | 10 file(s)                       | java     |      136 |      129 |       92 |      732 |     1089 |
++------------------+----------------------------------+----------+----------+----------+----------+----------+----------+

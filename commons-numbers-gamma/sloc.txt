@@ -1,0 +1,56 @@
++------------------+----------------------------------------------+----------+----------+----------+----------+----------+----------+
+| Package Name     | File Name                                    | Type     | Blank    | JavaDoc  | Comment  | Code     | Total    |
++------------------+----------------------------------------------+----------+----------+----------+----------+----------+----------+
+| gamma            | Digamma.java                                 | src      |        9 |       28 |       23 |       38 |       98 |
+| gamma            | Digamma_ESTest.java                          | test     |        7 |        0 |        4 |       30 |       41 |
+| gamma            | Digamma_ESTest_scaffolding.java              | test     |       16 |        5 |        0 |       78 |       99 |
+| gamma            | Erf.java                                     | src      |        3 |       23 |       17 |       15 |       58 |
+| gamma            | ErfDifference.java                           | src      |        3 |       23 |       17 |       28 |       71 |
+| gamma            | ErfDifference_ESTest.java                    | test     |       13 |        0 |        4 |       60 |       77 |
+| gamma            | ErfDifference_ESTest_scaffolding.java        | test     |       16 |        5 |        0 |      104 |      125 |
+| gamma            | Erf_ESTest.java                              | test     |        8 |        0 |        4 |       35 |       47 |
+| gamma            | Erf_ESTest_scaffolding.java                  | test     |       16 |        5 |        0 |      101 |      122 |
+| gamma            | Erfc.java                                    | src      |        4 |       23 |       17 |       17 |       61 |
+| gamma            | Erfc_ESTest.java                             | test     |        8 |        0 |        4 |       35 |       47 |
+| gamma            | Erfc_ESTest_scaffolding.java                 | test     |       16 |        5 |        0 |      101 |      122 |
+| gamma            | Gamma.java                                   | src      |        7 |       22 |       40 |       45 |      114 |
+| gamma            | GammaException.java                          | src      |        4 |       10 |       16 |       11 |       41 |
+| gamma            | GammaException_ESTest.java                   | test     |        8 |        0 |       10 |       38 |       56 |
+| gamma            | GammaException_ESTest_scaffolding.java       | test     |       16 |        5 |        0 |       78 |       99 |
+| gamma            | Gamma_ESTest.java                            | test     |       13 |        0 |        4 |       60 |       77 |
+| gamma            | Gamma_ESTest_scaffolding.java                | test     |       16 |        5 |        0 |       84 |      105 |
+| gamma            | InvGamma1pm1.java                            | src      |        8 |       15 |       20 |      147 |      190 |
+| gamma            | InvGamma1pm1_ESTest.java                     | test     |       12 |        0 |       12 |       54 |       78 |
+| gamma            | InvGamma1pm1_ESTest_scaffolding.java         | test     |       16 |        5 |        0 |       80 |      101 |
+| gamma            | InverseErf.java                              | src      |        5 |       16 |       31 |       81 |      133 |
+| gamma            | InverseErf_ESTest.java                       | test     |        8 |        0 |        4 |       35 |       47 |
+| gamma            | InverseErf_ESTest_scaffolding.java           | test     |       16 |        5 |        0 |       78 |       99 |
+| gamma            | InverseErfc.java                             | src      |        2 |       16 |       17 |        9 |       44 |
+| gamma            | InverseErfc_ESTest.java                      | test     |        6 |        0 |        4 |       25 |       35 |
+| gamma            | InverseErfc_ESTest_scaffolding.java          | test     |       16 |        5 |        0 |       80 |      101 |
+| gamma            | LanczosApproximation.java                    | src      |        4 |       24 |       17 |       36 |       81 |
+| gamma            | LanczosApproximation_ESTest.java             | test     |        6 |        0 |        4 |       25 |       35 |
+| gamma            | LanczosApproximation_ESTest_scaffolding.java | test     |       16 |        5 |        0 |       78 |       99 |
+| gamma            | LogBeta.java                                 | src      |       15 |       66 |       29 |      189 |      299 |
+| gamma            | LogBeta_ESTest.java                          | test     |       22 |        0 |        4 |      105 |      131 |
+| gamma            | LogBeta_ESTest_scaffolding.java              | test     |       16 |        5 |        0 |       92 |      113 |
+| gamma            | LogGamma.java                                | src      |        3 |       24 |       17 |       31 |       75 |
+| gamma            | LogGamma1p.java                              | src      |        3 |       15 |       17 |       12 |       47 |
+| gamma            | LogGamma1p_ESTest.java                       | test     |       11 |        0 |       12 |       49 |       72 |
+| gamma            | LogGamma1p_ESTest_scaffolding.java           | test     |       16 |        5 |        0 |       82 |      103 |
+| gamma            | LogGammaSum.java                             | src      |        3 |       17 |       17 |       25 |       62 |
+| gamma            | LogGammaSum_ESTest.java                      | test     |       17 |        0 |       20 |       77 |      114 |
+| gamma            | LogGammaSum_ESTest_scaffolding.java          | test     |       16 |        5 |        0 |       84 |      105 |
+| gamma            | LogGamma_ESTest.java                         | test     |       14 |        0 |        4 |       65 |       83 |
+| gamma            | LogGamma_ESTest_scaffolding.java             | test     |       16 |        5 |        0 |       86 |      107 |
+| gamma            | RegularizedBeta.java                         | src      |        8 |       45 |       17 |       56 |      126 |
+| gamma            | RegularizedBeta_ESTest.java                  | test     |       48 |        0 |       26 |      285 |      359 |
+| gamma            | RegularizedBeta_ESTest_scaffolding.java      | test     |       16 |        5 |        0 |      102 |      123 |
+| gamma            | RegularizedGamma.java                        | src      |       13 |       83 |       23 |       91 |      210 |
+| gamma            | Trigamma.java                                | src      |        8 |       12 |       21 |       32 |       73 |
+| gamma            | Trigamma_ESTest.java                         | test     |        9 |        0 |        5 |       44 |       58 |
+| gamma            | Trigamma_ESTest_scaffolding.java             | test     |       16 |        5 |        0 |       78 |       99 |
+| gamma            | package-info.java                            | src      |        1 |       21 |       16 |        1 |       39 |
++------------------+----------------------------------------------+----------+----------+----------+----------+----------+----------+
+| 1 package(s)     | 50 file(s)                                   | java     |      569 |      563 |      497 |     3272 |     4901 |
++------------------+----------------------------------------------+----------+----------+----------+----------+----------+----------+
