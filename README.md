@@ -33,7 +33,7 @@ This repository contains a mutation testing pipeline built around PIT and the Ap
         ├── commons-numbers-primes/
         ├── commons-numbers-quaternion/
         └── commons-numbers-rootfinder/
-Overview
+**Overview**
 
 This project performs mutation testing and mutation reconstruction on the Apache Commons Numbers project.
 
@@ -72,8 +72,8 @@ Running PIT
 
 To generate PIT mutation reports for a specific module, go into that module and run PIT using Maven.
 
-Example:
-
+**Example:
+**
 cd test/commons-numbers-1.0-src/commons-numbers-angle
 mvn test-compile org.pitest:pitest-maven:mutationCoverage
 
@@ -92,8 +92,8 @@ From the repository root, run the mutation applier on one module:
 
 python3 scripts/MutationApplier.py test/commons-numbers-1.0-src test/commons-numbers-1.0-src/commons-numbers-angle/target/pit-reports/mutations.xml
 
-This command:
-
+**This command:
+**
 Reads the PIT mutations.xml file
 Locates the matching Java source file
 Uses javalang to tokenize the Java source
@@ -124,12 +124,12 @@ Some non-void method call mutations
 
 Unsupported mutations are skipped and reported in the terminal output.
 
-Output
+**Output**
 
 This project produces two main types of output.
 
-1. PIT Mutation Reports
-
+_**1. PIT Mutation Reports
+**_
 PIT generates mutation report files named mutations.xml.
 
 Example location:
@@ -146,7 +146,8 @@ Mutator type
 Mutation status
 Whether the mutation was detected
 Mutation description
-2. Recreated Mutated Java Files
+
+**_2. Recreated Mutated Java Files_**
 
 The Python mutation applier generates mutated Java source files for inspection.
 
@@ -178,7 +179,8 @@ for f in test/commons-numbers-1.0-src/commons-numbers-*/target/pit-reports/mutat
   echo "Running MutationApplier on $f"
   python3 scripts/MutationApplier.py test/commons-numbers-1.0-src "$f"
 done
-Notes
+
+**Notes**
 
 This repository is organized as a mutation testing artifact repository. The scripts/ folder contains the mutation-processing logic, while the test/commons-numbers-1.0-src/ folder contains the Apache Commons Numbers project and related PIT artifacts.
 
