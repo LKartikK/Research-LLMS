@@ -1,8 +1,8 @@
-# PIT Mutation Testing Toolkit (Commons Numbers)
+PIT Mutation Testing Toolkit (Commons Numbers)
 
 This repository contains a mutation testing pipeline built around PIT and the Apache Commons Numbers project. It includes Java source modules, PIT mutation reports, generated build artifacts, and a Python-based mutation applier that recreates mutants using token-level Java parsing through `javalang`.
 
-## Layout
+Layout
 
 ```text
 .
@@ -33,6 +33,7 @@ This repository contains a mutation testing pipeline built around PIT and the Ap
         ├── commons-numbers-primes/
         ├── commons-numbers-quaternion/
         └── commons-numbers-rootfinder/
+
 **Overview**
 
 This project performs mutation testing and mutation reconstruction on the Apache Commons Numbers project.
